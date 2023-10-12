@@ -1,0 +1,29 @@
+body{
+    background:url("https://sp.yimg.com/ib/th?&id=ODL.1c6baa060493d97a98f65aa1f5efc298&w=200&h=107&c=4&dpr=2&rs=1");
+    background-size:cover;
+}
+
+
+.fblogin{
+    margin: auto;
+    padding: 100px;
+    width:200px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(238, 232, 232);
+    margin-top:200px;
+}
+
+img{
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+h3{
+    text-align:center;
+    color:rgb(1, 1, 13);
+}
+p{
+    text-align: justify;
+}
