@@ -10,7 +10,7 @@ body{
 }
 
 .fblogin{
-    border:10px solid rgba(13, 14, 13, 0.616);
+    border:2px solid rgba(13, 14, 13, 0.616);
     width:400px;
     padding: 10px;
     margin-left: auto;
