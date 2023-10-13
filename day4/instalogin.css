@@ -1,0 +1,37 @@
+body {
+    font-size:italic;
+    background-color: #f1f1f1;
+}
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.login-box {
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #e1e1e1;
+}
+
+input[type="text"], input[type="password"] {
+    width: 80%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 80%;
+    padding: 10px;
+    background-color: #3897f0;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3578e5;
+}

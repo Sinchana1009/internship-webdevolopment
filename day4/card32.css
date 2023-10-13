@@ -1,0 +1,26 @@
+.card2{
+    border:1.5px solid rgb(235, 229, 229);
+    width:300px;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(253, 253, 253);
+    margin-top: 10px;
+}
+input[type="text"]{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    width: 270px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(235, 229, 229);
+}
+input[type="password"]{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    width: 270px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(235, 229, 229);
+    box-shadow: 0.5px 0.5px 0.5px;
+}
