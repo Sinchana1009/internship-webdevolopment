@@ -1,0 +1,21 @@
+/* MainContent.css */
+
+.main-content {
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .main-content h2 {
+    color: #333;
+  }
+  
+  .main-content p {
+    color: #666;
+  }
+  
+  /* Customize the height and width of carousel images */
+  .carousel-item img {
+    max-height: 300px; /* Set the maximum height */
+    width: 100%; /* Make the image responsive within the carousel */
+    object-fit: cover; /* Ensure the entire image is visible within the container */
+  }
