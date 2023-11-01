@@ -21,5 +21,5 @@ mongoose.connect('mongodb+srv://sinchram03:sinchana@cluster0.uwpwbhp.mongodb.net
 .catch((error)=>{console.log(error)})
 app.use('/',route);
 app.listen( PORT ,()=>{
-    console.log('Server is running ${PORT}');
+    console.log(`Server is running ${PORT}`);
 })
